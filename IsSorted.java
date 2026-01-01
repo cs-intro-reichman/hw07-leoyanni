@@ -28,3 +28,4 @@ public class IsSorted {
         System.out.println(isSorted(b)); // false
     }
 }
+
